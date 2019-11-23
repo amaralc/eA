@@ -8,14 +8,13 @@
 
 ---
 
-
 Imagine o seguinte cenário: 
 
-Você está lendo um livro na terça-feira após o almoço e recebe uma notificação. Em uma hora alguns eixos estarão à prontos para inspeção na sala de medições e se aceitar a demanda receberá 20 créditos pelo trabalho. Você precisa realizar as medições conforme indica o check-list do aplicativo, que mostra qual equipamento de medição deve ser utilizado, quais características devem ser medidas e como elas devem ser medidas. A atividade deve levar em torno de duas horas e você receberá 20 créditos pela medição. Além disso receberá dez créditos para alugar um dos paquímetros disponíveis no armário, pelo período estimado. 
+Você está lendo um livro na terça-feira após o almoço e recebe uma notificação. Em uma hora alguns <eixos> estarão prontos para <inspeção> na sala de <medições> e se aceitar a demanda receberá <30> créditos pelo trabalho. Você precisa realizar as <medições> conforme indica o check-list do aplicativo, que mostra qual <equipamento de medição> deve ser utilizado, quais <características> devem ser <medidas> e como elas devem ser <medidas>. A atividade deve levar em torno de duas horas para ser realizada. Além disso receberá dez créditos para alugar um dos <paquímetros> disponíveis no armário, pelo período estimado. 
 
-Ao fim da atividade, o tempo de utilização do paquímetro será contabilizado e os créditos serão debitados de sua conta e redirecionados à conta do dono do equipamento, Fernando, ex funcionário de uma tornearia que agora aluga alguns bens para pesquisadores autônomos como você. Seu trabalho será avaliado por outro pesquisador e se a atividade tiver sido concluída com êxito você poderá sacar seus créditos ou utilizá-los nos estabelecimentos credenciados.
+Ao fim da atividade, o tempo de utilização do <paquímetro> será contabilizado e os créditos serão debitados de sua conta e redirecionados à conta do dono do equipamento, <Fernando>, ex funcionári<o> de uma <tornearia> que agora aluga alguns bens para pesquisador<es> autônom<os> como você. Seu trabalho será avaliado por outr<o> pesquisad<or> e se a atividade tiver sido concluída com êxito você poderá sacar seus créditos ou utilizá-los nos estabelecimentos credenciados.
 
-Ao final do dia haverá um happy-hour no restaurante local e parte do valor arrecadado será utilizado para financiar outras medições e ensaios como a que fez nesta tarde.
+Ao final do dia haverá um happy-hour no restaurante local e parte do valor arrecadado será utilizado para financiar outras <medições> e <ensaios> como a que fez nesta tarde.
 
 
 ## Objetivo Geral
