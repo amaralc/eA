@@ -26,10 +26,10 @@ Promover o desenvolvimento social, econômico e ambiental a partir da integraç�
 
 ## Histórico
 
-24/06/2019 14:46 - eA: estamos nas nuvens!
-24/06/2019 14:51 - eA: agradecimentos especiais a Leandro e Elias pelas dicas e palavras-chave.
-25/06/2019 15:18 - eA: tentando apontar para arquivo html.
-25/06/2019 16:33 - eA: primeiro [deploy com p5js](https://estadodaarte.azurewebsites.net/).
-25/06/2019 18:50 - eA: homepage com onda roxa azulada e 'eA' no centro.
-26/06/2019 00:06 - eA: homepage responde ao clique do mouse.
-02/07/2020 08:07 - eA: organização de contas e criação de mapa de raciocínios.
+* 24/06/2019 14:46 - eA: estamos nas nuvens!
+* 24/06/2019 14:51 - eA: agradecimentos especiais a Leandro e Elias pelas dicas e palavras-chave.
+* 25/06/2019 15:18 - eA: tentando apontar para arquivo html.
+* 25/06/2019 16:33 - eA: primeiro [deploy com p5js](https://estadodaarte.azurewebsites.net/).
+* 25/06/2019 18:50 - eA: homepage com onda roxa azulada e 'eA' no centro.
+* 26/06/2019 00:06 - eA: homepage responde ao clique do mouse.
+* 02/07/2020 08:07 - eA: organização de contas e criação de mapa de raciocínios.
