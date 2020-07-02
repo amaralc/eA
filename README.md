@@ -3,8 +3,6 @@
 
 ## Introdução
 
----
-
 Imagine o seguinte cenário: 
 
 Você está lendo um livro na terça-feira após o almoço e recebe uma notificação. Em uma hora alguns < eixos> estarão prontos para <inspeção> na sala de <medições> e se aceitar a demanda receberá <30> créditos pelo trabalho. Você precisa realizar as <medições> conforme indica o check-list do aplicativo, que mostra qual <equipamento de medição> deve ser utilizado, quais <características> devem ser < medidas> e como elas devem ser < medidas>. A atividade deve levar em torno de duas horas para ser realizada. Além disso receberá dez créditos para alugar um dos <paquímetros> disponíveis no armário, pelo período estimado. 
@@ -13,27 +11,12 @@ Ao fim da atividade, o tempo de utilização do <paquímetro> será contabilizad
 
 Ao final do dia haverá um happy-hour no restaurante local e parte do valor arrecadado será utilizado para financiar outras <medições> e < ensaios> como a que fez nesta tarde.
 
-
 ## Objetivo Geral
 
-v1 - Promover o bem-estar social através do incentivo à educação, utilizando a cultura local e as artes como alicerce.
-
-v2 - Promover o bem-estar social utilizando a cultura local e as artes como pilares para o investimento em educação e desenvolvimento de tecnologias.
-
-v3 - Promover o desenvolvimento social através da integração da cultura científica às artes e à cultura local.
-
-v4 - Promover o desenvolvimento social através da aproximação entre a cultura científica e a cultura local.
-
-v5 - Promover o desenvolvimento social, econômico e ambiental através da integração da educação à cultura local e às artes.
-
-v6 - Promover o desenvolvimento social, econômico e ambiental através da integração da educação à cultura local e às artes.
-
-v7 - Promover o desenvolvimento social, econômico e ambiental a partir da integração da educação à cultura local e às artes.
-
+Promover o desenvolvimento social, econômico e ambiental a partir da integração da educação à cultura local e às artes.
 
 ## Objetivos específicos
 
-v1:
 1. Utilizar a cultura local e as artes como base de sustentação para a educação.
 1. Transformar educação em uma forma flexível de fonte de renda.
 1. Desenvolver ferramenta de mapeamento de demandas locais e distribuição das demandas a pesquisadores autônomos e interdependentes.
@@ -41,3 +24,12 @@ v1:
 1. Desenvolver espaços colaborativos onde donos de equipamentos possam mantê-los seguros e acessíveis aos pesquisadores.
 1. Tornar os espaços atraentes e enriquecedores para a cultura local.
 
+## Histórico
+
+24/06/2019 14:46 - eA: estamos nas nuvens!
+24/06/2019 14:51 - eA: agradecimentos especiais a Leandro e Elias pelas dicas e palavras-chave.
+25/06/2019 15:18 - eA: tentando apontar para arquivo html.
+25/06/2019 16:33 - eA: primeiro [deploy com p5js](https://estadodaarte.azurewebsites.net/).
+25/06/2019 18:50 - eA: homepage com onda roxa azulada e 'eA' no centro.
+26/06/2019 00:06 - eA: homepage responde ao clique do mouse.
+02/07/2020 08:07 - eA: organização de contas e criação de mapa de raciocínios.
